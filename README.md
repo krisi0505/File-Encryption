@@ -1,17 +1,3 @@
-FileEncoder61683
-================
-
-
-
-
-
-
-
-
-
-
-
-
 import java.util.LinkedList;
 import java.io.File;
 import java.io.FileInputStream;
